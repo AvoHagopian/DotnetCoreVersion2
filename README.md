@@ -21,8 +21,12 @@ Dependency Injection was used in the frontend with the many service files inject
 <h4>Authentication</h4>
 Authentication uses Auth0 to create a token for the user and allow for site navigation.
 
+
 https://pantheonbackend20181215085909.azurewebsites.net
+
 Username: temp@aol.com
+
 Password: Password!
+
 
 Credentials may not work correctly but these will be used from here on out.
