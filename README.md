@@ -3,6 +3,7 @@
 
 <h2>Project Description</h2>
 Pantheon
+
 A collection of Heroes, Gods, and Countries with descriptions and details for each instance. All CRUD operations can be done on the tables in order to expand the list.
 
 <h4>Model View Controller</h4>
